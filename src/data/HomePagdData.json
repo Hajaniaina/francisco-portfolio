@@ -1,0 +1,442 @@
+{
+  "hero": {
+    "imgUrl": "/images/francisco.png",
+    "name": "HAJANIAINA Mahatia Francisco",
+    "heading": "Hey! Je suis Francisco",
+    "typingText": ["Je suis Développeur", 2000, "Je suis Développeur full-stack Web et Mobile.", 2000],
+    "description": "Je suis développeur fullstack d'applications web et mobiles depuis 7 ans, maîtrisant diverses technologies de développement.",
+    "btnText": "Entrer en contact",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/frcmsb"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/francisco-mahatia-66348513b/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/allianz.png",
+      "alt": "Allianz"
+    },
+    {
+      "src": "/images/emoney.png",
+      "alt": "eMoney Solutions"
+    },
+    {
+      "src": "/images/vitafoam.png",
+      "alt": "Vitafoam Madagascar"
+    },
+    {
+      "src": "/images/M2Realisation.png",
+      "alt": "M2Réalisation"
+    },
+    {
+      "src": "/images/preventium.png",
+      "alt": "Preventium FR"
+    },
+    {
+      "src": "/images/nuklear.png",
+      "alt": "Nuklear"
+    },
+    {
+      "src": "/images/MTM.png",
+      "alt": "MTM"
+    },
+    {
+      "src": "/images/rundestockage.png",
+      "alt": "Rnn Destockage"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/francisco-about.png",
+    "miniTitle": "À propos de moi",
+    "title": "JE SUIS DISPONIBLE POUR DES PROJETS DE <span> DÉVELOPPEUR WEB ET MOBILE</span>",
+    "description": "Je suis développeur d'applications fullstack web et mobile depuis 7 ans, avec une expertise dans diverses technologies de développement. J'ai eu l'opportunité de travailler pour plusieurs entreprises à Madagascar et à l'international, où j'ai mené à bien la création d'applications mobiles et web qui m'ont été confiées. Au sein de l'entreprise M2 Réalisation, j'ai participé au développement de sites web et d'applications mobiles pour des clients importants tels qu'Allianz Afrique, Vitafoam, Run Destockage, MTM, et Cops. J'ai également collaboré avec Preventium France sur la réalisation d'applications mobiles et de serveurs web. Par ailleurs, j'ai travaillé en tant que développeur React.js chez Nuklear, apportant mon expertise dans le développement d'interfaces utilisateur dynamiques. En tant que développeur fullstack web et mobile chez eMoney Solution, j'ai eu l'occasion de travailler avec divers langages de programmation, me permettant d'acquérir une solide expérience dans la conception et la réalisation de solutions numériques complètes.",
+    "funfacts": [
+      {
+        "title": "Années d'expérience",
+        "number": 7
+      },
+      {
+        "title": "clients ont collaboré avec moi et sont satisfaits.",
+        "number": 10
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "Mes travaux",
+      "title": "PROJETS RÉCENTS"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/allianzfr.png",
+        "title": "Site web d'Allianz France",
+        "subTitle": "Création du site web pour Allianz France",
+        "details": {
+          "title": "Création du site web pour Allianz France",
+          "description": "Création d'un site web de A à Z pour Allianz France avec le framework Adobe Experience Manager, basé sur les technologies Java, JavaScript, CSS et HTML. J'ai réalisé l'intégralité du site depuis le début et travaillé seul jusqu'à sa livraison.",
+          "type": "Site web",
+          "langages": "Java, HTML, CSS, JS",
+          "platform": "Adobe Experiance Manager (AEM)",
+          "country": "FR",
+          "url": "https://www.allianz.fr"
+        }
+      },
+      {
+        "thumbUrl": "/images/allianzmg.png",
+        "title": "Site web d'Allianz Madagascar",
+        "subTitle": "Création du site pour Allianz Madagascar",
+        "details": {
+          "title": "Création du site web pour Allianz Madagascar",
+          "description": "Création d'un site web de A à Z pour Allianz Madagascar avec le framework Adobe Experience Manager, basé sur Java, JavaScript, CSS et HTML. J'ai conçu et développé le site entièrement seul, depuis le début jusqu'à sa livraison. Ce site web répond aux besoins d'une compagnie d'assurance.",
+          "type": "Site web",
+          "langages": "Java, HTML, CSS, JS",
+          "platform": "Adobe Experiance Manager (AEM)",
+          "country": "FR",
+          "url": "https://www.allianz.mg"
+        }
+      },
+      {
+        "thumbUrl": "/images/vitafoam-site.png",
+        "title": "Site web de VITAFOAM",
+        "subTitle": "Création du site pour VITAFOAM Madagascar",
+        "details": {
+          "title": "Création du site pour VITAFOAM Madagascar",
+          "description": "Création d'un site vitrine via WIX ainsi que d'une plateforme e-commerce sous WordPress pour la commercialisation des matelas VITAFOAM. VITAFOAM est une société spécialisée dans la fabrication de matelas de différentes catégories et tailles. J'ai conçu un site web afin de faciliter la sélection de matelas par les clients, en fonction de leurs critères personnels et de leurs préférences. L'achat en ligne n'a pas été intégré car il est possible de négocier les prix, notamment pour les revendeurs qui bénéficient de tarifs de gros. En revanche, une fonctionnalité de demande de devis en ligne a été ajoutée pour permettre aux clients de contacter directement les commerciaux.",
+          "type": "Site web",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "MG",
+          "url": "https://www.vitafoam.mg"
+        }
+      },
+      {
+        "thumbUrl": "/images/pricing1.png",
+        "title": "Tableau de bord - Tarification",
+        "subTitle": "Dashboard pour la tarification des véhicules",
+        "details": {
+          "title": "Tableau de bord pour la tarification des véhicules",
+          "description": "Conception du tableau de bord pour la tarification des véhicules de la société ProovStation en France. Le principe est que des véhicules de différentes marques passent dans les diverses stations ProovStation en France. Le conducteur traverse la station sans s’arrêter. En seulement 3 secondes, ProovStation scanne l’état du véhicule et génère un diagnostic complet, garantissant ainsi une totale impartialité. Une offre de rachat est disponible 45 minutes après le passage dans la station, avec un engagement des partenaires sur le prix de reprise proposé. Les informations collectées sont ensuite transférées vers HubSpot et leur cloud personnel via API et WebHook. Je les ai récupérées pour les afficher sur la plateforme de tarification (Pricing), où les clients peuvent faire des propositions de prix, fonctionnant comme une vente aux enchères. Chaque utilisateur a accès à une page de profil personnalisée.",
+          "type": "Site web, application web",
+          "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
+          "platform": "ReactJs (Next), NodeJs (Express)",
+          "country": "FR",
+          "url": "https://www.proovstation.fr"
+        }
+      },
+      {
+        "thumbUrl": "/images/pricing2.png",
+        "title": "Tableau de bord - Tarification",
+        "subTitle": "Dashboard pour la tarification des véhicules",
+        "details": {
+          "title": "Tableau de bord pour la tarification des véhicules",
+          "description": "Conception du tableau de bord pour la tarification des véhicules de la société ProovStation en France. Le principe est que des véhicules de différentes marques passent dans les diverses stations ProovStation en France. Le conducteur traverse la station sans s’arrêter. En seulement 3 secondes, ProovStation scanne l’état du véhicule et génère un diagnostic complet, garantissant ainsi une totale impartialité. Une offre de rachat est disponible 45 minutes après le passage dans la station, avec un engagement des partenaires sur le prix de reprise proposé. Les informations collectées sont ensuite transférées vers HubSpot et leur cloud personnel via API et WebHook. Je les ai récupérées pour les afficher sur la plateforme de tarification (Pricing), où les clients peuvent faire des propositions de prix, fonctionnant comme une vente aux enchères. Chaque utilisateur a accès à une page de profil personnalisée.",
+          "type": "Site web, application web",
+          "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
+          "platform": "ReactJs (Next), NodeJs (Express)",
+          "country": "FR",
+          "url": "https://www.proovstation.fr"
+        }
+      },
+      {
+        "thumbUrl": "/images/pricing3.png",
+        "title": "Tableau de bord - Tarification",
+        "subTitle": "Dashboard pour la tarification des véhicules",
+        "details": {
+          "title": "Tableau de bord pour la tarification des véhicules",
+          "description": "Conception du tableau de bord pour la tarification des véhicules de la société ProovStation en France. Le principe est que des véhicules de différentes marques passent dans les diverses stations ProovStation en France. Le conducteur traverse la station sans s’arrêter. En seulement 3 secondes, ProovStation scanne l’état du véhicule et génère un diagnostic complet, garantissant ainsi une totale impartialité. Une offre de rachat est disponible 45 minutes après le passage dans la station, avec un engagement des partenaires sur le prix de reprise proposé. Les informations collectées sont ensuite transférées vers HubSpot et leur cloud personnel via API et WebHook. Je les ai récupérées pour les afficher sur la plateforme de tarification (Pricing), où les clients peuvent faire des propositions de prix, fonctionnant comme une vente aux enchères. Chaque utilisateur a accès à une page de profil personnalisée.",
+          "type": "Site web, application web",
+          "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
+          "platform": "ReactJs (Next), NodeJs (Express)",
+          "country": "FR",
+          "url": "https://www.proovstation.fr"
+        }
+      },
+      {
+        "thumbUrl": "/images/pricing4.png",
+        "title": "Tableau de bord - Tarification",
+        "subTitle": "Dashboard pour la tarification des véhicules",
+        "details": {
+          "title": "Tableau de bord pour la tarification des véhicules",
+          "description": "Conception du tableau de bord pour la tarification des véhicules de la société ProovStation en France. Le principe est que des véhicules de différentes marques passent dans les diverses stations ProovStation en France. Le conducteur traverse la station sans s’arrêter. En seulement 3 secondes, ProovStation scanne l’état du véhicule et génère un diagnostic complet, garantissant ainsi une totale impartialité. Une offre de rachat est disponible 45 minutes après le passage dans la station, avec un engagement des partenaires sur le prix de reprise proposé. Les informations collectées sont ensuite transférées vers HubSpot et leur cloud personnel via API et WebHook. Je les ai récupérées pour les afficher sur la plateforme de tarification (Pricing), où les clients peuvent faire des propositions de prix, fonctionnant comme une vente aux enchères. Chaque utilisateur a accès à une page de profil personnalisée.",
+          "type": "Site web, application web",
+          "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
+          "platform": "ReactJs (Next), NodeJs (Express)",
+          "country": "FR",
+          "url": "https://www.proovstation.fr"
+        }
+      },
+      {
+        "thumbUrl": "/images/rundestockage.png-site.png",
+        "title": "Site e-Commerce",
+        "subTitle": "Création de site e-Commerce en ligne",
+        "details": {
+          "title": "Création de site e-Commerce en ligne, site de vente en ligne à l'île Maurice",
+          "description": "Rundestockage est un site de e-commerce dont la mission est de proposer une solution durable à la problématique des stocks dormants à La Réunion. En raison de sa situation géographique, l'île doit, pour des raisons de rentabilité, importer des marchandises en grandes quantités.",
+          "type": "Site e-Commerce",
+          "langages": "PHP, HTML, CSS",
+          "platform": "Prestashop",
+          "country": "REUNION",
+          "url": "https://beaute.rundestockage.re"
+        }
+      },
+      {
+        "thumbUrl": "/images/m2r.png",
+        "title": "Création d'un site vitrine",
+        "subTitle": "Création d'un site vitrine pour M2Réalisation",
+        "details": {
+          "title": "Création d'un site vitrine et portfolio pour l'agence marketing M2Réalisation à Madagascar.",
+          "description": "J'ai créé un site web One Page attractif pour la société de marketing et de communication M2Réalisation, basée à Madagascar. M2Réalisation est une entreprise qui conseille et accompagne les entreprises ainsi que les organisations internationales en France, à Madagascar, à l'Île Maurice et à La Réunion dans l'élaboration de leur stratégie de communication et le marketing de leurs produits et services. Depuis la création du site, elle commence à avoir des clients, grâce à un nombre croissant de visiteurs chaque mois. Le site a été conçu sous WordPress avec le constructeur Elementor.",
+          "type": "Site vitrine",
+          "langages": "PHP, HTML, CSS",
+          "platform": "WordPress (Elementor)",
+          "country": "MG",
+          "url": "https://www.m2realisation.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/copsMadagascar.png",
+        "title": "Création d'un site vitrine",
+        "subTitle": "Site vitrine pour Cops Madagascar",
+        "details": {
+          "title": "Création d'un site vitrine pour l'agence de sécurité COPS Madagascar.",
+          "description": "J'ai créé et conçu un site vitrine pour l'agence de sécurité COPS Madagascar en utilisant le CMS WIX.",
+          "type": "Site vitrine",
+          "langages": "",
+          "platform": "WIX",
+          "country": "MG",
+          "url": "https://www.copsmadagascar.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/monitoring.png",
+        "title": "Monitoring - Green Pay CI",
+        "subTitle": "Création d'un Tableau de bord de suivi",
+        "details": {
+          "title": "Création d'un tableau de bord de monitoring pour Green Pay en Côte d'Ivoire avec React Native",
+          "description": "Green Pay aide à la digitalisation des services financiers. L'entreprise déploie et gère un réseau de points multiservices, permettant aux clients d'accéder à une large gamme de produits dématérialisés et de services financiers digitalisés. J'ai donc créé un tableau de bord de suivi en React Native, permettant aux personnes concernées (directeur commercial, directeur technique, etc.) de suivre l'évolution des transactions pour leurs clients (Orange, MTN, MOOV, etc.). J'y ai représenté les taux de réussite, les évolutions de ces taux, les VPN (activés ou désactivés), ainsi que les logs des derniers échecs. Cela vise à garantir la transparence sur les opérations effectuées et à permettre la prise de mesures appropriées. Il a donc été compilé pour la version TV à installer dans chaque salle de travail.",
+          "type": "Application mobile",
+          "langages": "React Native",
+          "platform": "React Native",
+          "country": "CI",
+          "url": "https://www.greenpayci.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/greenPayCi.png",
+        "title": "App Mobile - Green Pay CI",
+        "subTitle": "Création d'une application mobile - TPE",
+        "details": {
+          "title": "Création d'une application mobile native en JAVA pour Green Pay à intégrer dans le TPE et à utiliser dans le système de point de vente (POS).",
+          "description": "Nous développons une application mobile destinée aux TPE afin que les clients de Green Pay puissent effectuer des paiements via Tap to Pay et Tap to Phone. Les TPE seront distribués aux clients de Green Pay pour leur permettre d'accepter facilement les paiements par carte, Mobile Money et espèces sur leur point de vente (POS). Cette application mobile, développée en JAVA, apportera une solution simple, sécurisée et accessible à tous. Elle réunira et acceptera, sur un seul et même appareil, tous les moyens et modes de paiement mobiles et bancaires.",
+          "type": "Application mobile",
+          "langages": "JAVA, XML",
+          "platform": "Android",
+          "country": "CI",
+          "url": "https://www.greenpayci.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/preventiumapp.png",
+        "title": "App Mobile JAVA - Preventium",
+        "subTitle": "Création d'une application mobile en JAVA",
+        "details": {
+          "title": "Création d'une application mobile native en Java pour la gestion des risques dans le secteur des transports.",
+          "description": "Cette application a pour objectif d'analyser divers facteurs liés à la conduite, notamment le profil de conduite, les comportements à risque, les trajets effectués, ainsi que les sollicitations du véhicule. Elle permettra également d'identifier les stagiaires à bord et d'envoyer des alertes immédiates multicritères. L'application se connectera à des dispositifs d'informatique embarquée. Elle offrira aux entreprises disposant d'une flotte de véhicules un outil précieux pour améliorer la sécurité de leurs employés durant les phases de conduite. Associée à une Box-Eode installée dans le véhicule, les données enregistrées seront transmises à un serveur en ligne, où elles seront traitées par un algorithme dédié au type d'activité. De plus, grâce à un suivi personnalisé, il sera possible de réduire les risques d'accidents ainsi que les dépenses liées au carburant et à l'usure des véhicules.",
+          "type": "Application mobile",
+          "langages": "JAVA, XML",
+          "platform": "Android",
+          "country": "FR",
+          "url": "https://apkcombo.com/box-eode/com.preventium.boxpreventium"
+        }
+      },
+      {
+        "thumbUrl": "/images/preventiumapp1.png",
+        "title": "App Mobile JAVA - Preventium",
+        "subTitle": "Création d'une application mobile en JAVA",
+        "details": {
+          "title": "Création d'une application mobile native en Java pour la gestion des risques dans le secteur des transports.",
+          "description": "Cette application a pour objectif d'analyser divers facteurs liés à la conduite, notamment le profil de conduite, les comportements à risque, les trajets effectués, ainsi que les sollicitations du véhicule. Elle permettra également d'identifier les stagiaires à bord et d'envoyer des alertes immédiates multicritères. L'application se connectera à des dispositifs d'informatique embarquée. Elle offrira aux entreprises disposant d'une flotte de véhicules un outil précieux pour améliorer la sécurité de leurs employés durant les phases de conduite. Associée à une Box-Eode installée dans le véhicule, les données enregistrées seront transmises à un serveur en ligne, où elles seront traitées par un algorithme dédié au type d'activité. De plus, grâce à un suivi personnalisé, il sera possible de réduire les risques d'accidents ainsi que les dépenses liées au carburant et à l'usure des véhicules.",
+          "type": "Application mobile",
+          "langages": "JAVA, XML",
+          "platform": "Android",
+          "country": "FR",
+          "url": "https://apkcombo.com/box-eode/com.preventium.boxpreventium"
+        }
+      },
+      {
+        "thumbUrl": "/images/preventiumapp2.png",
+        "title": "App Mobile JAVA - Preventium",
+        "subTitle": "Création d'une application mobile en JAVA",
+        "details": {
+          "title": "Création d'une application mobile native en Java pour la gestion des risques dans le secteur des transports.",
+          "description": "Cette application a pour objectif d'analyser divers facteurs liés à la conduite, notamment le profil de conduite, les comportements à risque, les trajets effectués, ainsi que les sollicitations du véhicule. Elle permettra également d'identifier les stagiaires à bord et d'envoyer des alertes immédiates multicritères. L'application se connectera à des dispositifs d'informatique embarquée. Elle offrira aux entreprises disposant d'une flotte de véhicules un outil précieux pour améliorer la sécurité de leurs employés durant les phases de conduite. Associée à une Box-Eode installée dans le véhicule, les données enregistrées seront transmises à un serveur en ligne, où elles seront traitées par un algorithme dédié au type d'activité. De plus, grâce à un suivi personnalisé, il sera possible de réduire les risques d'accidents ainsi que les dépenses liées au carburant et à l'usure des véhicules.",
+          "type": "Application mobile",
+          "langages": "JAVA, XML",
+          "platform": "Android",
+          "country": "FR",
+          "url": "https://apkcombo.com/box-eode/com.preventium.boxpreventium"
+        }
+      },
+      {
+        "thumbUrl": "/images/vitafoamapp.png",
+        "title": "App Mobile multiplateforme",
+        "subTitle": "App mobile multiplateforme pour VITAFOAM",
+        "details": {
+          "title": "Création d'une application mobile native en Java pour la gestion des risques dans le secteur des transports.",
+          "description": "J'ai développé une application mobile cross-platform en Ionic AngularJS avec Capacitor pour VITAFOAM Madagascar. L'application est installée dans leur totem et peut être utilisée par leurs clients finaux. Cette application facilitera la recherche de matelas Vitafoam en guidant les utilisateurs pour trouver le produit le plus adapté à leurs besoins. De plus, elle offrira également la possibilité d'évaluer les services de nos showrooms, ce qui nous permettra d'améliorer encore davantage nos prestations.",
+          "type": "Application mobile multiplateforme",
+          "langages": "JavaScript, TypeScript, SCSS, HTM, Angular",
+          "platform": "Android, Ios, capacitor",
+          "country": "MG",
+          "url": "https://apkcombo.com/fr/vitafoam/com.vitafoam.mg/"
+        }
+      },
+      {
+        "thumbUrl": "/images/vitafoamapp1.png",
+        "title": "App Mobile multiplateforme",
+        "subTitle": "App mobile multiplateforme pour VITAFOAM",
+        "details": {
+          "title": "Création d'une application mobile native en Java pour la gestion des risques dans le secteur des transports.",
+          "description": "J'ai développé une application mobile cross-platform en Ionic AngularJS avec Capacitor pour VITAFOAM Madagascar. L'application est installée dans leur totem et peut être utilisée par leurs clients finaux. Cette application facilitera la recherche de matelas Vitafoam en guidant les utilisateurs pour trouver le produit le plus adapté à leurs besoins. De plus, elle offrira également la possibilité d'évaluer les services de nos showrooms, ce qui nous permettra d'améliorer encore davantage nos prestations.",
+          "type": "Application mobile multiplateforme",
+          "langages": "JavaScript, TypeScript, SCSS, HTM, Angular",
+          "platform": "Android, Ios, capacitor",
+          "country": "MG",
+          "url": "https://apkcombo.com/fr/vitafoam/com.vitafoam.mg/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Services que je  <span>propose</span>"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/design.png",
+        "title": "Conception de site internet et application mobile",
+        "subTitle": "Créer un design très attractif pour votre site web et votre application mobile",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/deploiement.png",
+        "title": "Déploiement de site web et d'applications mobiles",
+        "subTitle": "Déploiement de votre site sur les hébergeurs et le cloud en ligne. Mise en ligne de votre application sur le Play Store et l’App Store.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/SEO.png",
+        "title": "SEO Marketing",
+        "subTitle": "Améliorez la visibilité de votre site web sur Internet grâce à mes connaissances en SEO. Augmentez le nombre de vos visiteurs et de vos clients.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/maj.png",
+        "title": "Mise à jour et support après livraison",
+        "subTitle": "J'offre toujours une mise à jour et un support dans un délai défini selon le contrat après la livraison des livrables. Satisfaction assurée.",
+        "icon": "bi:arrow-clockwise",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experiences",
+      "title": "Mon expérience <span>Professionnelle</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Développeur web et mobile",
+        "company": "eMoney Solutions",
+        "duration": "AVR 2024 - PRESENT",
+        "jobType": "Temps plein",
+        "companyTitle": "eMoney Solutions",
+        "companyDescription": "Développeur d'applications web et mobile au sein de l'équipe d'eMoney Solutions, une organisation financière numérique promouvant l'inclusion et la diversité financières."
+      },
+      {
+        "designation": "Développeur Web et Mobile",
+        "company": "M2Realisation",
+        "duration": "JUIN 2019 - FEV 2024",
+        "jobType": "Temps plein",
+        "companyTitle": "M2Realisation",
+        "companyDescription": "Développement du site web d'Allianz Madagascar en utilisant AEM ou Adobe Experience Manager, un framework basé sur JAVA. Création d'un site vitrine via WIX ainsi que d'une plateforme e-commerce avec WordPress pour commercialiser les matelas de VITAFOAM. Conception d'un site web pour COPS et M2Realisation avec WordPress. Mise en place d'un site dédié au circuit Moto pour Moto Tour Madagascar avec Symfony 6 Réalisation d'une application mobile pour VITAFOAM avec Ionic basé sur Angular, intégrant PHP CodeIgniter pour la gestion du backEnd. Conception d'une application mobile destinée à MATERAUTO avec React Native, axée sur la gestion des alertes en cas d'accident de conduite. La partie backend en Java Spring Boot. "
+      },
+      {
+        "designation": "Développeur Mobile Native Java",
+        "company": "NerdTech",
+        "duration": "AVR 2019 - JUIN 2019",
+        "jobType": "Remote",
+        "companyTitle": "NerdTech France",
+        "companyDescription": "Développeur Mobile Native, gestion des notifications, utilisant le langage Java avec l'éditeur et le gestionnaire de packages Android Studio."
+      },
+      {
+        "designation": "Développeur web et mobile",
+        "company": "Preventium France",
+        "duration": "OCT 2017 - AVRL 2019",
+        "jobType": "Remote",
+        "companyTitle": "Preventium France",
+        "companyDescription": "Création d'une application mobile hybride en React Native pour la gestion des employés. La partie backEnd est développée avec NodeJS. Création d'une application mobile hybride en Ionic pour la gestion des stocks. La partie backEnd est développée avec Java Spring. Création d'une application mobile native en Java pour la gestion des risques dans le secteur des transports. Analyse du profil de conduite, des prises de risques, des trajets, des sollicitations du véhicule, identification des stagiaires dans le véhicule, alertes immédiates multicritères. Connexion à des boîtiers d'informatique embarquée, etc. Mise en place d'un serveur web en PHP établissant une connexion via une API avec cette application de gestion des risques. Création d'un site e-learning en Java EE et JSP."
+      },
+      {
+        "designation": "Développeur en  C",
+        "company": "Stage - Telma Madagascar",
+        "duration": "JUIN 2017 - SEPT 2019",
+        "jobType": "Temps plein",
+        "companyTitle": "Stage - Telma Madagascar",
+        "companyDescription": "Développement d'une application de console en C appelée MEDIATION dédiée à la facturation clientèle et à la facturation d'interconnexion."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Discutons de votre projet",
+      "subTitle": "Toujours disponible si le bon projet se présente, n'hésitez pas à me contacter."
+    },
+    "contactImg": "/images/contactUs.png",
+    "contactInfo": [
+      { "title": "Écrivez un e-mail", "email": "francisco.mahatia@gmail.com" },
+      { "title": "Contactez-moi", "tel": "+261 34 50 482 60" }
+    ]
+  }
+}
