@@ -7,7 +7,7 @@ export default function ContactInfo({ contactInfoData }) {
         <div
           className="contact-info-in"
           key={index}
-          data-aos="fade-up"
+          // data-aos="fade-up"
           data-aos-duration="1200"
           data-aos-delay={index * 100}
         >

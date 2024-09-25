@@ -14,7 +14,7 @@ export default function Contact({ data, socialData }) {
             <div className="col-lg-8">
               <div
                 className="contactus-title"
-                data-aos="fade-left"
+                // data-aos="fade-left"
                 data-aos-duration="1200"
                 data-aos-delay="200"
               >
