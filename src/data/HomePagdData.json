@@ -363,7 +363,7 @@
       {
         "designation": "Développeur web et mobile",
         "company": "eMoney Solutions",
-        "duration": "AVR 2024 - PRESENT",
+        "duration": "MARS 2024 - SEPT 2024",
         "jobType": "Temps plein",
         "companyTitle": "eMoney Solutions",
         "companyDescription": "Développeur d'applications web et mobile au sein de l'équipe d'eMoney Solutions, une organisation financière numérique promouvant l'inclusion et la diversité financières. Nous avons développé des applications Android à installer sur les TPE (PAX et PaySky) afin de répondre aux besoins des clients. Ces applications permettent d'effectuer des transactions financières sécurisées par carte de paiement, espèces et mobile money, tout en imprimant les tickets de paiement. J'ai également développé un ERP et un CRM avec Odoo 17 pour les clients utilisant les systèmes installés sur les TPE. Cet ERP/CRM est installé sur chaque point de vente (POS) afin de faciliter la gestion des caisses et d'alléger les opérations."
@@ -382,7 +382,7 @@
         "duration": "AVR 2019 - JUIN 2019",
         "jobType": "Remote",
         "companyTitle": "NerdTech France",
-        "companyDescription": "Développeur Mobile Native, gestion des notifications, utilisant le langage Java avec l'éditeur et le gestionnaire de packages Android Studio."
+        "companyDescription": "Développeur Mobile Native, gestion des notifications, utilisant le langage Java avec l'éditeur et le gestionnaire de packages Android Studio. Le développement consiste à modifier le noyau d'Android afin de personnaliser les notifications. Après avoir reçu une notification, il est possible de l'épingler en y ajoutant une date et une heure de rappel. Lorsque la date et l'heure sont atteintes, une sonnerie de rappel retentit."
       },
       {
         "designation": "Développeur web et mobile",
