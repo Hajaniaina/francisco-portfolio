@@ -247,6 +247,20 @@
         }
       },
       {
+        "thumbUrl": "/images/odoo-emoney.png",
+        "title": "ERP et CRM Avec Odoo 17",
+        "subTitle": "Création d'un ERP et CRM avec Odoo 17",
+        "details": {
+          "title": "Création d'un ERP et CRM avec Odoo 17 pour les points de vente des clients à Abidjan, Côte d'Ivoire.",
+          "description": "J'ai également développé un ERP et un CRM avec Odoo 17 pour les clients utilisant les systèmes installés sur les TPE. Cet ERP/CRM est installé sur chaque point de vente (POS) afin de faciliter la gestion des caisses et d'alléger les opérations.",
+          "type": "Application Web",
+          "langages": "Python, XML, Js",
+          "platform": "Odoo",
+          "country": "CI",
+          "url": ""
+        }
+      },
+      {
         "thumbUrl": "/images/preventiumapp.png",
         "title": "App Mobile JAVA - Preventium",
         "subTitle": "Création d'une application mobile en JAVA",
