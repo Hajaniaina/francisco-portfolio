@@ -88,7 +88,7 @@
           "type": "Site web",
           "langages": "Java, HTML, CSS, JS",
           "platform": "Adobe Experiance Manager (AEM)",
-          "country": "FR",
+          "country": "France",
           "url": "https://www.allianz.fr"
         }
       },
@@ -102,7 +102,7 @@
           "type": "Site web",
           "langages": "Java, HTML, CSS, JS",
           "platform": "Adobe Experiance Manager (AEM)",
-          "country": "FR",
+          "country": "France",
           "url": "https://www.allianz.mg"
         }
       },
@@ -116,7 +116,7 @@
           "type": "Site web",
           "langages": "PHP, HTML, CSS, JS",
           "platform": "WordPress",
-          "country": "MG",
+          "country": "Madagascar",
           "url": "https://www.vitafoam.mg"
         }
       },
@@ -130,7 +130,7 @@
           "type": "Site web, application web",
           "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
           "platform": "ReactJs (Next), NodeJs (Express)",
-          "country": "FR",
+          "country": "France",
           "url": "https://www.proovstation.fr"
         }
       },
@@ -144,7 +144,7 @@
           "type": "Site web, application web",
           "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
           "platform": "ReactJs (Next), NodeJs (Express)",
-          "country": "FR",
+          "country": "France",
           "url": "https://www.proovstation.fr"
         }
       },
@@ -158,7 +158,7 @@
           "type": "Site web, application web",
           "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
           "platform": "ReactJs (Next), NodeJs (Express)",
-          "country": "FR",
+          "country": "France",
           "url": "https://www.proovstation.fr"
         }
       },
@@ -172,7 +172,7 @@
           "type": "Site web, application web",
           "langages": "React JS, NodeJS, Express, Next Js, HTML, CSS, JS, Tailwind",
           "platform": "ReactJs (Next), NodeJs (Express)",
-          "country": "FR",
+          "country": "France",
           "url": "https://www.proovstation.fr"
         }
       },
@@ -186,7 +186,7 @@
           "type": "Site e-Commerce",
           "langages": "PHP, HTML, CSS",
           "platform": "Prestashop",
-          "country": "REUNION",
+          "country": "LA REUNION",
           "url": "https://beaute.rundestockage.re"
         }
       },
@@ -200,7 +200,7 @@
           "type": "Site vitrine",
           "langages": "PHP, HTML, CSS",
           "platform": "WordPress (Elementor)",
-          "country": "MG",
+          "country": "Madagascar",
           "url": "https://www.m2realisation.com"
         }
       },
@@ -214,7 +214,7 @@
           "type": "Site vitrine",
           "langages": "",
           "platform": "WIX",
-          "country": "MG",
+          "country": "Madagascar",
           "url": "https://www.copsmadagascar.com"
         }
       },
@@ -228,8 +228,22 @@
           "type": "Application mobile",
           "langages": "React Native",
           "platform": "React Native",
-          "country": "CI",
+          "country": "Côte d'Ivoire",
           "url": "https://www.greenpayci.com"
+        }
+      },
+      
+        {"thumbUrl": "/images/monitoring_dgi_ci.png",
+        "title": "Monitoring - DGI Côte d'Ivoire",
+        "subTitle": "Tableau de bord de monitoring",
+        "details": {
+          "title": "Création d'un tableau de bord de monitoring pour La DGI en Côte d'Ivoire avec JAVA et ReactJs",
+          "description": "La Direction Générale des Impôts (DGI) en Côte d'Ivoire met actuellement en place la digitalisation des reçus et des factures normalisées pour les commerçants et les entreprises locales. Nous participons activement à ce projet en assurant la digitalisation via des solutions informatiques adaptées. Par ailleurs, j'ai personnellement développé un système de monitoring permettant de suivre l'évolution et l'utilisation de cette nouvelle application installée sur les TPE (Terminaux de Paiement Électronique) et les POS (Points de Vente). Ce système fournit diverses informations telles que le nombre de transactions, les journaux d'activités (logs), et des visualisations sous forme de graphiques. Il a été développé avec Java pour le backend et React.js pour l'interface utilisateur. L'outil est spécifiquement conçu pour la DGI afin de leur permettre un suivi en temps réel, notamment en l'intégrant dans leurs Smart TV et leurs smartphones Android.",
+          "type": "Application mobile et Smart TV",
+          "langages": "Java et React",
+          "platform": "Android et ReactJs",
+          "country": "Côte d'Ivoire",
+          "url": "https://www.dgi.gouv.ci/"
         }
       },
       {
@@ -242,7 +256,7 @@
           "type": "Application mobile",
           "langages": "JAVA, XML",
           "platform": "Android",
-          "country": "CI",
+          "country": "Côte d'Ivoire",
           "url": "https://www.greenpayci.com"
         }
       },
@@ -256,7 +270,7 @@
           "type": "Application Web",
           "langages": "Python, XML, Js",
           "platform": "Odoo",
-          "country": "CI",
+          "country": "Côte d'Ivoire",
           "url": ""
         }
       },
@@ -270,7 +284,7 @@
           "type": "Application mobile",
           "langages": "JAVA, XML",
           "platform": "Android",
-          "country": "FR",
+          "country": "France",
           "url": "https://apkcombo.com/box-eode/com.preventium.boxpreventium"
         }
       },
@@ -284,7 +298,7 @@
           "type": "Application mobile",
           "langages": "JAVA, XML",
           "platform": "Android",
-          "country": "FR",
+          "country": "France",
           "url": "https://apkcombo.com/box-eode/com.preventium.boxpreventium"
         }
       },
@@ -298,7 +312,7 @@
           "type": "Application mobile",
           "langages": "JAVA, XML",
           "platform": "Android",
-          "country": "FR",
+          "country": "France",
           "url": "https://apkcombo.com/box-eode/com.preventium.boxpreventium"
         }
       },
@@ -312,7 +326,7 @@
           "type": "Application mobile multiplateforme",
           "langages": "JavaScript, TypeScript, SCSS, HTM, Angular",
           "platform": "Android, Ios, capacitor",
-          "country": "MG",
+          "country": "Madagascar",
           "url": "https://apkcombo.com/fr/vitafoam/com.vitafoam.mg/"
         }
       },
@@ -326,7 +340,7 @@
           "type": "Application mobile multiplateforme",
           "langages": "JavaScript, TypeScript, SCSS, HTM, Angular",
           "platform": "Android, Ios, capacitor",
-          "country": "MG",
+          "country": "Madagascar",
           "url": "https://apkcombo.com/fr/vitafoam/com.vitafoam.mg/"
         }
       }
