@@ -391,10 +391,10 @@
       {
         "designation": "Développeur web et mobile",
         "company": "eMoney Solutions",
-        "duration": "MARS 2024 - NOV 2024",
+        "duration": "MARS 2024 - AVR 2025",
         "jobType": "Temps plein",
         "companyTitle": "eMoney Solutions",
-        "companyDescription": "Développeur d'applications web et mobile au sein de l'équipe d'eMoney Solutions, une organisation financière numérique promouvant l'inclusion et la diversité financières. Nous avons développé des applications Android à installer sur les TPE (PAX et PaySky) afin de répondre aux besoins des clients. Ces applications permettent d'effectuer des transactions financières sécurisées par carte de paiement, espèces et mobile money, tout en imprimant les tickets de paiement. J'ai également développé un ERP et un CRM avec Odoo 17 pour les clients utilisant les systèmes installés sur les TPE. Cet ERP/CRM est installé sur chaque point de vente (POS) afin de faciliter la gestion des caisses et d'alléger les opérations."
+        "companyDescription": "Développeur d'applications web et mobile au sein de l'équipe d'eMoney Solutions, une organisation financière numérique promouvant l'inclusion et la diversité financières. Nous avons développé des applications Android à installer sur les TPE (PAX et PaySky) afin de répondre aux besoins des clients. Ces applications permettent d'effectuer des transactions financières sécurisées par carte de paiement, espèces et mobile money, tout en imprimant les tickets de paiement. J'ai également développé un ERP et un CRM avec Odoo 17 pour les clients utilisant les systèmes installés sur les TPE. Cet ERP/CRM est installé sur chaque point de vente (POS) afin de faciliter la gestion des caisses et d'alléger les opérations. Conception d’un tableau de bord pour la tarification des véhicules, intégrant un webhook comme lien de rappel HTTP et HubSpot en tant que CRM, outil de marketing, service client et stockage des données. Le frontend est développé avec ReactJS et le backend avec NodeJS."
       },
       {
         "designation": "Développeur Web et Mobile",
